@@ -1,0 +1,7 @@
+<?php
+/* Quando realizar manutenção renomear este arquivo para .maintenance */
+/* Após o período para manutenção renomear novamente o arquivo */ 
+
+ $upgrading = time(); 
+
+?>
