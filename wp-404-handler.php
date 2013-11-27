@@ -16,9 +16,10 @@ $_SERVER['PHP_SELF'] = str_replace($thisfile, $default, $_SERVER['PHP_SELF']);
 $_SERVER['PATH_INFO'] = false;
  
 $qs =& $_SERVER['QUERY_STRING'];
+printf($qs);
 $ru =& $_SERVER['REQUEST_URI'];
 $pos = strrpos($qs, '://');
-$pos = strrpos($qs, '/', $pos + 4);
+$pos = strpos($qs, '/', $pos + 4);
 $_SERVER['URL'] = $ru = substr($qs, $pos);
 $qs = trim(stristr($ru, '?'), '?');
  
