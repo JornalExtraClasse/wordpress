@@ -1,0 +1,370 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Image Source Control v1.3.4.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-11-27 14:53-0300\n"
+"Last-Translator: Diego Schneider <diego@sinprors.org.br>\n"
+"Language-Team: Diego Schneider <diego@sinprors.org.br>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ isc
+#: isc.class.php:197 templates/missing_sources.php:7
+msgid "Missing Sources"
+msgstr "Sem Crédito"
+
+# @ isc
+#: isc.class.php:229
+msgid "Image Source"
+msgstr "Crédito da Imagem"
+
+# @ isc
+#: isc.class.php:231
+msgid "Include the image source here."
+msgstr "Inclua o crédito da imagem aqui"
+
+# @ isc
+#: isc.class.php:237
+msgid "Check this box if this is your own image and doesn't need a source."
+msgstr "Marque esta caixa caso a foto seja sua e não seja necessário creditar"
+
+# @ isc
+#: isc.class.php:242
+msgid "This is my image"
+msgstr "Foto do Autor"
+
+# @ isc
+#: templates/missing_sources.php:15
+msgid "ID"
+msgstr "ID"
+
+# @ isc
+#: templates/missing_sources.php:23
+msgid "edit this image"
+msgstr "Editar imagem"
+
+# @ isc
+#: templates/missing_sources.php:24
+msgid "show parent post's edit page"
+msgstr "Exibe a página para editar o post que contém a imagem"
+
+# @ isc
+#: templates/missing_sources.php:24
+msgid "no connection"
+msgstr "Sem conexão"
+
+# @ isc
+#: isc.class.php:198
+msgid "Image control - ISC plugin"
+msgstr "Controle de Imagem - ISC Plugin"
+
+# @ isc
+#: isc.class.php:198
+msgid "Image Control"
+msgstr "Controle de Imagem"
+
+# @ isc
+#: isc.class.php:698
+msgid "&#171; Previous"
+msgstr "&#171; Anterior"
+
+# @ isc
+#: isc.class.php:700
+msgid "Next &#187;"
+msgstr "Próximo &#187;"
+
+# @ isc
+#: isc.class.php:741
+#, php-format
+msgid "<li><a href=\"%1$s\" title=\"View %2$s\">%3$s</a></li>"
+msgstr "<li><a href=\"%1$s\" title=\"%2$s\\ Ver\\\">%3$s</a></li>"
+
+# @ isc
+#: isc.class.php:806
+msgid "Attachment's ID"
+msgstr "ID dos anexos"
+
+# @ isc
+#: isc.class.php:807
+msgid "Title"
+msgstr "Título"
+
+# @ isc
+#: isc.class.php:808
+msgid "Attached to"
+msgstr "Anexado a"
+
+# @ isc
+#: isc.class.php:809
+msgid "Source"
+msgstr "Crédito"
+
+# @ isc
+#: isc.class.php:76
+msgid "Not available"
+msgstr "Não creditado"
+
+# @ isc
+#: isc.class.php:1013
+msgid "image sources"
+msgstr "Crédito das Imagens"
+
+# @ isc
+#: isc.class.php:1015
+msgid "Owned by the author"
+msgstr "Foto do autor"
+
+# @ isc
+#: isc.class.php:1042 isc.class.php:1143
+msgid "Image list headline"
+msgstr "Chamada da lista de imagens"
+
+# @ isc
+#: isc.class.php:1059
+msgid "Use authors names"
+msgstr "Utiliza os nomes dos autores"
+
+# @ isc
+#: isc.class.php:1060
+msgid "Custom text for owned images"
+msgstr "Texto customizado para imagens próprias"
+
+# @ isc
+#: isc.class.php:1106
+msgid "Images control settings"
+msgstr "Configurações do Controle de Imagens"
+
+# @ isc
+#: isc.class.php:1140
+msgid ""
+"The headline of the image list added via shortcode or function in your theme."
+msgstr ""
+"Chamada para a lista de imagens adicionada por atalho ou função no seu tema"
+
+# @ isc
+#: isc.class.php:1175
+msgid "Use author name"
+msgstr "Nome do autor"
+
+# @ isc
+#: isc.class.php:1185
+msgid ""
+"Enter the custom text to display if you do not want to use the author's "
+"public name."
+msgstr ""
+"Informe o texto customizado para ser exibido caso não queira utilizar o nome "
+"do autor"
+
+# @ isc
+#: isc.class.php:804
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+# @ isc
+#: isc.class.php:1061
+msgid "Link to webgilde's website"
+msgstr "Site do desenvolvedor"
+
+# @ isc
+#: isc.class.php:1050
+msgid "Use thumbnails in images list"
+msgstr "Utilize miniatura na lista de imagens"
+
+# @ isc
+#: isc.class.php:1054
+msgid "Thumbnails max-width"
+msgstr "Largura máxima das miniaturas"
+
+# @ isc
+#: isc.class.php:1055
+msgid "Thumbnails max-height"
+msgstr "Altura máxima das miniaturas"
+
+# @ isc
+#: isc.class.php:1197
+#, php-format
+msgid ""
+"Display a link to <a href=\"%s\">Image Source Control plugin&#39;s website</"
+"a> below the list of all images in the blog?"
+msgstr ""
+"Exibir link do <a href=\"%s\">Site do Desenvolvedor do plugin</a> abaixo da "
+"lista de todas imagens do site?"
+
+# @ isc
+#: isc.class.php:1209
+msgid "Display thumbnails on the list of all images in the blog."
+msgstr "Exibir miniaturas na lista de todas as imagens do site."
+
+# @ isc
+#: isc.class.php:1226
+msgid "Custom value of the maximum allowed width for thumbnail."
+msgstr "Valor máximo permitido para a largura das miniaturas."
+
+# @ isc
+#: isc.class.php:1238
+msgid "Custom value of the maximum allowed height for thumbnail."
+msgstr "Valor máximo permitido para a altura das miniaturas."
+
+# @ isc
+#: isc.class.php:782
+#, php-format
+msgid ""
+"Image list created by <a href=\"%s\" title=\"Image Source Control\">Image "
+"Source Control Plugin</a>"
+msgstr ""
+"Lista de imagens criada pelo <a href=\"%s\" title=\"Controle de Crédito de "
+"Iamgens\">Plugin Controle de Crédito de Imagens</a>."
+
+# @ isc
+#: isc.class.php:335
+msgid "Show the list"
+msgstr "Exibe a lista"
+
+# @ isc
+#: isc.class.php:336
+msgid "Hide the list"
+msgstr "Oculta a lista"
+
+# @ isc
+#: isc.class.php:469
+msgid "Please specify the image source"
+msgstr "Informe o crédito da foto por favor."
+
+# @ isc
+#: isc.class.php:1046
+msgid "Hide the image list"
+msgstr "Oculta a lista de imagens"
+
+# @ isc
+#: isc.class.php:1153
+msgid ""
+"Hide the list when the post is loaded. A simple click on the list headline "
+"will show the list content."
+msgstr ""
+"Oculta a lista quando o post é carregado. O conteúdo da lista será exibido "
+"clicando na chamada."
+
+# @ isc
+#: isc.class.php:1156
+msgid "Hide the image list of a post"
+msgstr "Oculta a lista de imagens de um post"
+
+# @ isc
+#: isc.class.php:1171
+msgid ""
+"Display the author's public name as source when the image is owned by the "
+"author (the uploader of the image, not necessarily the author of the post "
+"the image is displayed on). Uncheck to use a custom text instead."
+msgstr ""
+"Apresentar nome público do autor como crédito quando a imagem é propriedade "
+"do autor (quem envia a imagem para o site, não necessariamente é o autor do "
+"post que contém a imagem). Desmarque essa opção para a usar um texto "
+"personalizado em seu lugar."
+
+# @ isc
+#: isc.class.php:1255
+msgid ""
+"Warn and prevent data to be saved when an attachment is edited and the "
+"source has not been specified."
+msgstr ""
+"Avisar e evitar que informações sejam salvas quando o crédito da imagem não "
+"for informado"
+
+# @ isc
+#: isc.class.php:1028
+msgid "Source:"
+msgstr "Crédito:"
+
+# @ isc
+#: isc.class.php:1065
+msgid "Source as caption on image"
+msgstr "Crédito como legenda da imagem"
+
+# @ isc
+#: isc.class.php:1066
+msgid "Caption position"
+msgstr "Posição do crédito como legenda"
+
+# @ isc
+#: isc.class.php:1067
+msgid "Warning when there is at least one missing source"
+msgstr "Avisar quando há imagens sem crédito"
+
+# @ isc
+#: isc.class.php:1068
+msgid "Warnings when source not available"
+msgstr "Avisar quando o crédito não está disponível."
+
+# @ isc
+#: isc.class.php:1110
+msgid "Post / Page images list"
+msgstr "Lista de imagens do post / página"
+
+# @ isc
+#: isc.class.php:1163
+msgid "Full images list"
+msgstr "Lista de imagens completa"
+
+# @ isc
+#: isc.class.php:1247
+msgid "Miscellaneous settings"
+msgstr "Configurações diversas"
+
+# @ isc
+#: isc.class.php:1267
+msgid ""
+"Display an admin notice in admin pages when one or more image sources are "
+"missing."
+msgstr ""
+"Exibir notificação na página do painel de controle quando um ou mais crédito "
+"de imagens não for informado"
+
+# @ isc
+#: isc.class.php:1279
+msgid "Position of captions into images"
+msgstr "Posição das legendas nas imagens"
+
+# @ isc
+#: isc.class.php:1295
+msgid "Tick to display source onto each image."
+msgstr "Selecione para exibir o crédito em cada imagem"
+
+# @ isc
+#: isc.class.php:1296
+msgid "The text preceding the source on each image."
+msgstr "Texto que precede o crédito de cada imagem"
+
+# @ isc
+#: isc.class.php:1445
+#, php-format
+msgid ""
+"One or more attachments still have no source. See the <a href=\"%s\">missing "
+"sources</a> list"
+msgstr ""
+"Uma ou mais imagens ainda não possuem crédito. Veja a <a href=\"%s\">lista "
+"de imagens sem crédito</a>."
+
+# @ isc
+#: templates/missing_sources.php:16
+msgid "Image title"
+msgstr "Título da imagem"
+
+# @ isc
+#: templates/missing_sources.php:17
+msgid "Post / Page"
+msgstr "Post / Página"
+
+# @ isc
+#: templates/missing_sources.php:30
+msgid "All sources have been specified!"
+msgstr "Beleza! Todas as imagens possuem crédito!"
